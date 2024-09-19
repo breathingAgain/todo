@@ -1,7 +1,5 @@
 # Todo List Application
 
-![Todo List Banner](https://i.ibb.co/g7HpFSz/banner.png)
-
 ## Overview
 
 The Todo List application is a simple tool for managing daily tasks and goals. It allows users to add, edit, complete, and delete tasks. Built with React, this application provides an intuitive interface for task management.
