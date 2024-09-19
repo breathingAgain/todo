@@ -1,0 +1,16 @@
+button {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500; /* Немного жирнее для кнопок */
+  background-color: mediumslateblue;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 10px 0; /* Если есть необходимость добавить отступы вокруг кнопки */
+}
+
+button:hover {
+  background-color: rgb(61, 61, 168);
+}
