@@ -1,6 +1,6 @@
 # Todo List Application
 
-![Todo List Banner](https://ibb.co/SxW87tR)
+![Todo List Banner](https://i.ibb.co/g7HpFSz/banner.png)
 
 ## Overview
 
@@ -20,7 +20,7 @@ You can view a live demo of the application at [this link](https://example.com/d
 
 ## Screenshots
 
-![Screenshot 1](https://ibb.co/njCL99x) 
+![Screenshot 1](https://i.ibb.co/BBNCbb0/todo.png) 
 
 ## Installation
 
